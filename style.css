@@ -1,0 +1,21 @@
+.red {
+    width: 400px;
+    height: 70px;
+    background-color: #A91F32;
+    margin-left: 20px;
+}
+.ag {
+    width: 400px;
+    height: 70px;
+    background-color: #FFFFFF;
+    margin-left: 20px;
+}
+.goy {
+    width: 400px;
+    height: 70px;
+    background-color: #1E4785;
+    margin-left: 20px;
+}
+body {
+    background-color: #F8F8FF;
+}
